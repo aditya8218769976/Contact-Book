@@ -1,0 +1,48 @@
+.table-custom-css{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  height: auto;
+  gap: 12 rem;
+}
+
+.custom-nav-css{
+  display: flex;
+  justify-content: space-around;
+  width: 100vw;
+  height: auto;
+}
+/* .custom-nav-css input{
+  height: 20px;
+  display: flex;
+  align-items: center;
+  margin-top: 2em;
+} */
+
+.addContact-custom-css{
+  display: flex;
+  flex-direction: column;
+  width: 70vw;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.addContact-custom-css input{
+  gap: 2rem;
+}
+
+.search-add-container{
+  height: 20px;
+  display: flex;
+  align-items: center;
+  margin-top: 2em;
+}
+
+.edit-table-css{
+  display: flex;
+  justify-content: center;
+}
